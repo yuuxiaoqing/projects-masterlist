@@ -1,4 +1,59 @@
-### Xiao Qing's project Masterlist
+## Xiao Qing's project Masterlist
 
-## This page have links to all my coding projects.
+### Hi! Welcome to my project page where I post links and descriptions of all my coding projects.
+
+# Lowell high school AP Computer Science class coding projects
+
+<b/>Asteroid</b>: http://xyuubao.github.io/AsteroidsGame/ | code: https://github.com/Xyuubao/AsteroidsGame
+
+This is a practice project that simulates the game Asteroid. (The restart button doesn't work properly, but the controls works fine)
+
+<b/>Chemotaxis</b>: http://xyuubao.github.io/Chemotaxis/ | code: https://github.com/Xyuubao/Chemotaxis
+
+This is a short program that simulated a "random walk" of particles. I added a mouse sensing element where some bubble would follow the mouse and others would perform tiny random walks. 
+
+<b/>Dice</b>: http://xyuubao.github.io/Dice/ | code: https://github.com/Xyuubao/Dice
+
+This program rolls 49 individual dice each time the mouse is clicked. The program also counts all the "dots" on the 49 dice.
+
+<b/>Fractal Tree</b>: http://xyuubao.github.io/FractalTree/ | code: https://github.com/Xyuubao/FractalTree
+
+<b/>Lightning</b>:  http://xyuubao.github.io/Lightning/  | code: https://github.com/Xyuubao/Lightning
+
+This program simulated randomized "lightning" everytime the user clicks the screen. 
+
+<b/>Minesweeper</b>: http://xyuubao.github.io/Minesweeper/ | code: https://github.com/Xyuubao/Minesweeper
+
+<b/>Orginal Fractal</b>: http://xyuubao.github.io/OriginalFractal/ | code: https://github.com/Xyuubao/OriginalFractal
+
+<b/>Sierpinski Triangle</b>: http://xyuubao.github.io/SierpinskiTriangle/ | code:https://github.com/Xyuubao/SierpinskiTriangle
+
+This program creates triangles within triangles recursively.
+
+<b/>Snowflake Catcher</b>: http://xyuubao.github.io/SnowflakeCatcher/ | code: https://github.com/Xyuubao/SnowflakeCatcher
+
+This program is a simple simulator that catches falling snowflakes with the movement of a mouse. The snowflakes stops falling when they comes in contact with the rectangles drawn by the mouse. 
+
+<b/>Starfield</b>: http://xyuubao.github.io/Starfield/ | code: https://github.com/Xyuubao/Starfield
+
+This program create different types of random bubbles and display their movement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
