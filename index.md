@@ -1,8 +1,17 @@
-## Xiao Qing's project Masterlist
+# Xiao Qing's project Masterlist
 
-### Hi! Welcome to my project page where I post links and descriptions of all my coding projects.
+## Hi! Welcome to my masterlist of coding projects.
 
-# Lowell high school AP Computer Science class coding projects
+## Hackathon projects
+
+### Cruzhack 2018
+
+<b/>Tip of the Day</b>: https://devpost.com/software/tip-of-the-day code: https://github.com/Xyuubao/Tip-Of-the-Day
+<i/> Winner of Cruzhack 2018 Hack Alumni's Keeping it Weird category </i>
+This project was created to make spliting bills, taxes, and tips easier for outdoor dinings and get-togethers. Our program uses Google Vision to scan a receipt and makes a checklist of all the items and price as well as calculate the tax percent of the bill. I coded the tipping calculator algorithm of the project and also designed the logo.
+
+
+## Lowell high school AP Computer Science class coding projects and assignments
 
 <b/>Asteroid</b>: http://xyuubao.github.io/AsteroidsGame/ | code: https://github.com/Xyuubao/AsteroidsGame
 
