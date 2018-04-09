@@ -14,7 +14,8 @@ _Winner of Cruzhack 2018 Hack Alumni's Keeping it Weird category_
 This project was created to make spliting bills, taxes, and tips easier for outdoor dinings and get-togethers. Our program uses Google Vision to scan a receipt and makes a checklist of all the items and their prices as well as calculate the tax percent of the bill. I coded the tipping calculator algorithm of the project and also designed the logo.
 
 
-## Lowell high school AP Computer Science class coding projects and assignments
+## AP Computer Science coding assignments projects
+
 
 **Asteroid**: [Asteroid](http://xyuubao.github.io/AsteroidsGame/):[code](https://github.com/Xyuubao/AsteroidsGame)
 
