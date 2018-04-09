@@ -16,37 +16,37 @@ This project was created to make spliting bills, taxes, and tips easier for outd
 
 ## Lowell high school AP Computer Science class coding projects and assignments
 
-**Asteroid**: [Asteroid](http://xyuubao.github.io/AsteroidsGame/) [code](https://github.com/Xyuubao/AsteroidsGame)
+**Asteroid**: [Asteroid](http://xyuubao.github.io/AsteroidsGame/):[code](https://github.com/Xyuubao/AsteroidsGame)
 
 This is a practice project that simulates the game Asteroid. (The restart button doesn't work properly, but the controls works fine)
 
-**Chemotaxis**: [Chemotaxis](http://xyuubao.github.io/Chemotaxis/) [code](https://github.com/Xyuubao/Chemotaxis)
+**Chemotaxis**: [Chemotaxis](http://xyuubao.github.io/Chemotaxis/):[code](https://github.com/Xyuubao/Chemotaxis)
 
 This is a short program that simulated a "random walk" of particles. I added a mouse sensing element where some bubble would follow the mouse and others would perform tiny random walks. 
 
-**Dice**: [Dice](http://xyuubao.github.io/Dice/) [code](https://github.com/Xyuubao/Dice)
+**Dice**: [Dice](http://xyuubao.github.io/Dice/):[code](https://github.com/Xyuubao/Dice)
 
 This program rolls 49 individual dice each time the mouse is clicked. The program also counts all the "dots" on the 49 dice.
 
-**Fractal Tree**: [Fractal Tree](http://xyuubao.github.io/FractalTree/) [code](https://github.com/Xyuubao/FractalTree)
+**Fractal Tree**: [Fractal Tree](http://xyuubao.github.io/FractalTree/):[code](https://github.com/Xyuubao/FractalTree)
 
-**Lightning**:  [Lightning](http://xyuubao.github.io/Lightning/) [code](https://github.com/Xyuubao/Lightning)
+**Lightning**:  [Lightning](http://xyuubao.github.io/Lightning/):[code](https://github.com/Xyuubao/Lightning)
 
 This program simulated randomized "lightning" everytime the user clicks the screen. 
 
-**Minesweeper**: [Minesweeper](http://xyuubao.github.io/Minesweeper/) [code](https://github.com/Xyuubao/Minesweeper)
+**Minesweeper**: [Minesweeper](http://xyuubao.github.io/Minesweeper/):[code](https://github.com/Xyuubao/Minesweeper)
 
-**Original Fractal**: [Original Fractal](http://xyuubao.github.io/OriginalFractal/) [code](https://github.com/Xyuubao/OriginalFractal)
+**Original Fractal**: [Original Fractal](http://xyuubao.github.io/OriginalFractal/):[code](https://github.com/Xyuubao/OriginalFractal)
 
-**Sierpinski Triangle**: [Sierpinski Triangle](http://xyuubao.github.io/SierpinskiTriangle/) [code](https://github.com/Xyuubao/SierpinskiTriangle)
+**Sierpinski Triangle**: [Sierpinski Triangle](http://xyuubao.github.io/SierpinskiTriangle/):[code](https://github.com/Xyuubao/SierpinskiTriangle)
 
 This program creates triangles within triangles recursively.
 
-**Snowflake Catcher**: [Snowflake Catcher](http://xyuubao.github.io/SnowflakeCatcher/) [code](https://github.com/Xyuubao/SnowflakeCatcher)
+**Snowflake Catcher**: [Snowflake Catcher](http://xyuubao.github.io/SnowflakeCatcher/):[code](https://github.com/Xyuubao/SnowflakeCatcher)
 
 This program is a simple simulator that catches falling snowflakes with the movement of a mouse. The snowflakes stops falling when they comes in contact with the rectangles drawn by the mouse. 
 
-**Starfield**: [Starfield](http://xyuubao.github.io/Starfield/) [code](https://github.com/Xyuubao/Starfield)
+**Starfield**: [Starfield](http://xyuubao.github.io/Starfield/):[code](https://github.com/Xyuubao/Starfield)
 
 This program create different types of random bubbles and display their movement.
 
