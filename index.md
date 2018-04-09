@@ -7,7 +7,7 @@ I am Xiao Qing Yu and I am a first year CS major currently in university. I like
 
 ### Cruzhack 2018
 
-**Tip of the Day**: [devpost](https://devpost.com/software/tip-of-the-day) [code](https://github.com/Xyuubao/Tip-Of-the-Day)
+**Tip of the Day**: [devpost](https://devpost.com/software/tip-of-the-day):[code](https://github.com/Xyuubao/Tip-Of-the-Day)
 
 _Winner of Cruzhack 2018 Hack Alumni's Keeping it Weird category_
 
