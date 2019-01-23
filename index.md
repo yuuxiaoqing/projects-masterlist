@@ -1,7 +1,7 @@
 # Xiao Qing's project Masterlist
 
 ## Welcome to my masterlist of coding and 3D design projects.
-I am Xiao Qing and I am a first year CS major currently in university. I like coding because I like to create cool and helpful programs. I really like to build stuff too.
+I am Xiao Qing and I am a second year CS major currently in university. I like coding because I like to create cool and helpful programs. I really like to build stuff too.
 
 ## Currently learning
 
