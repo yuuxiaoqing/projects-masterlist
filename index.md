@@ -16,7 +16,7 @@ AI programming
 
 ### CruzHacks 2019
 
-**stage_fright**:[devpost] (https://devpost.com/software/stage_fright):[code](https://github.com/jnkrupp/stage-fright)
+**stage_fright**:[devpost] (https://devpost.com/software/stage_fright):[code] (https://github.com/jnkrupp/stage-fright)
 
 _CruzHacks 2019 Tech Cares 1st Place Winner and UCSC Arts 2nd Place Winner_
 
