@@ -9,7 +9,7 @@ C++
 
 ## Want to learn
 
-AI programming
+More about artificial intelligence and the application of artifical intelligence in different fields of study.
 
 ## Hackathon projects
 
