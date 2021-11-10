@@ -4,11 +4,10 @@
 Hi, I'm Xiao Qing and I'm a recent graduate with a Bachelor of Science degree in Computer Science. I'm currently looking for jobs in IT and CS while practicing my programming skilling and adding more projects to my portfolio in my free time. 
 
 ## LANGUAGES I KNOW
-- Python, Java, C, Unix, CSS, HTML, Prolog, Scala, Phaser, Renpy
+- Python, Java, C, Unix, CSS, HTML, Phaser, Renpy
 - English, Mandarin, Cantonese, proficient Japanese
 
 ## CURRENTLY LEARNING
-- Live 2D
 - German
 
 ## GAME PROJECTS
@@ -16,7 +15,6 @@ Hi, I'm Xiao Qing and I'm a recent graduate with a Bachelor of Science degree in
 _Submission for the Spooktober 3rd Annual Visual Novel Jam (2021)_ 
 
 You are a newbie ghost hunter on your first ghost hunting job working with a professional team. Your task is to explore the house and exterminate the ghost. Are you up for the job?
-***revision in progress*** 
 
 ### **Burger Quest**: [game](https://yuuxiaoqing.github.io/120FinalProject/) 
 _Final project of the Game Development Experience course._
