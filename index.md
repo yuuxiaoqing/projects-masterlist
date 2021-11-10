@@ -1,7 +1,7 @@
 # XIAO QING'S PROJECTS
 
 ## ABOUT ME
-Hi, I'm Xiao Qing and I'm a recent graduate with a Bachelor of Science degree in Computer Science. I'm currently looking for jobs in IT and CS while practicing my programming skill and adding more projects to my portfolio in my free time. 
+Hi, I'm Xiao Qing and I'm a recent graduate with a Bachelor of Science degree in Computer Science. I'm currently looking for jobs in IT and CS while practicing my programming skills and adding more projects to my portfolio in my free time. 
 
 ## LANGUAGES I KNOW
 - Python, Java, C, Unix, CSS, HTML, Phaser, Renpy
